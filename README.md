@@ -13,6 +13,14 @@ One-way folder synchronization from tree-view. Copies new/changed files to targe
 
 To install `folder-sync` run `ppm install asiloisad/pulsar-folder-sync` to install a package directly from the GitHub repository.
 
+## Commands
+
+Commands available in `.tree-view`:
+
+- `folder-sync:create` - create `.sync` config in selected folder
+- `folder-sync:run` - run sync using selected `.sync` file
+- `folder-sync:open` - open target folder in file manager
+
 ## Usage
 
 1. Right-click a folder in tree-view and run `folder-sync:create`
@@ -46,14 +54,6 @@ Target is built as `storagePath/name`.
 - `target` - absolute destination path
 - `name` - folder name inside storagePath
 - `ignoreExts` - file extensions to ignore (optional)
-
-## Commands
-
-Commands available in `.tree-view`:
-
-- `folder-sync:create` - create `.sync` config in selected folder
-- `folder-sync:run` - run sync using selected `.sync` file
-- `folder-sync:open` - open target folder in file manager
 
 ## Contributing
 
