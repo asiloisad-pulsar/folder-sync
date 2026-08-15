@@ -1,6 +1,6 @@
 {
   "name": "folder-sync",
-  "repository": "https://github.com/asiloisad/pulsar-folder-sync",
+  "repository": "https://github.com/asiloisad-pulsar/folder-sync",
   "description": "One-way folder synchronization from tree-view",
   "keywords": [
     "sync",
