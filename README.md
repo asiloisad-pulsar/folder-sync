@@ -11,7 +11,7 @@ One-way folder synchronization from tree-view. Copies new/changed files to targe
 
 ## Installation
 
-To install `folder-sync` run `ppm install asiloisad/pulsar-folder-sync` to install a package directly from the GitHub repository.
+To install `folder-sync` run `ppm install asiloisad-pulsar/folder-sync` to install a package directly from the GitHub repository.
 
 ## Commands
 
