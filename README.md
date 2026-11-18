@@ -2,6 +2,9 @@
 
 One-way folder synchronization from tree-view. Copies new/changed files to target and removes files that no longer exist in source.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [folder-sync](https://github.com/lumine-code/folder-sync).
+
 ## Features
 
 - **One-way sync**: Copies only new or changed files to target.
